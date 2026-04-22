@@ -13,6 +13,7 @@ This project demonstrates practical skills in spreadsheet analysis, business thi
 Business Goal
 
 Help a potential investor understand:
+
 	*	Which Manhattan neighborhoods perform best for Airbnb investments
 	*	Which listing types generate the highest revenue
 	*	What characteristics define top-performing listings
@@ -23,6 +24,7 @@ Help a potential investor understand:
 Dataset
 
 The dataset contains Airbnb listings information for Manhattan, including:
+
 	*	Neighborhood
 	*	Room type
 	*	Number of bedrooms
@@ -37,6 +39,7 @@ The project also includes calendar and listing-level data used for deeper revenu
 ---
 
 Tools Used
+
 	*	Google Sheets
 	*	Pivot Tables
 	*	Formulas (IF, AND, VLOOKUP, helper columns)
@@ -46,27 +49,32 @@ Tools Used
 Key Analysis Steps
 
 1. Data Cleaning
+
 	*	Checked for missing values and duplicates
 	*	Standardized formatting
 	*	Created helper columns for analysis
 	*	Validated key business metrics
 
-2. Revenue Analysis
+3. Revenue Analysis
+
 	*	Calculated estimated revenue per listing
 	*	Identified top-performing listings
 	*	Compared listing performance across neighborhoods
 
-3. Neighborhood Analysis
+5. Neighborhood Analysis
+
 	*	Determined Top 10 Manhattan neighborhoods
 	*	Compared performance by review activity and revenue
 	*	Evaluated bedroom distribution across high-performing areas
 
-4. Top Listings Identification
+7. Top Listings Identification
+
 	*	Created logic for defining “top listings”
 	*	Used filters and pivot tables to isolate strongest performers
 	*	Identified patterns in successful listing types
 
-5. Business Recommendations
+9. Business Recommendations
+
 	*	Prioritized neighborhoods for investment
 	*	Recommended optimal bedroom configurations
 	*	Highlighted decision-making criteria for investors
@@ -80,6 +88,7 @@ Strongest Investment Areas
 Midtown and several high-demand Manhattan neighborhoods consistently showed the strongest revenue potential due to high review volume and strong occupancy indicators.
 
 Listing Type Performance
+
 	*	Studio (0-bedroom) listings performed best in Midtown
 	*	1-bedroom listings showed stronger performance in most other top neighborhoods
 
@@ -94,6 +103,7 @@ This suggests that sustainable demand matters more than premium pricing.
 Business Recommendations
 
 Recommended Investment Focus
+
 	*	Prioritize Midtown for studio investments
 	*	Focus on 1-bedroom properties in other top-performing neighborhoods
 	*	Evaluate listings based on long-term demand indicators rather than price only
