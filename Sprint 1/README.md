@@ -14,10 +14,10 @@ Business Goal
 
 Help a potential investor understand:
 
-	*	Which Manhattan neighborhoods perform best for Airbnb investments
-	*	Which listing types generate the highest revenue
-	*	What characteristics define top-performing listings
-	*	Where to focus investment efforts for maximum return
+*	Which Manhattan neighborhoods perform best for Airbnb investments
+*	Which listing types generate the highest revenue
+*	What characteristics define top-performing listings
+*	Where to focus investment efforts for maximum return
 
 ---
 
@@ -25,23 +25,24 @@ Dataset
 
 The dataset contains Airbnb listings information for Manhattan, including:
 
-	*	Neighborhood
-	*	Room type
-	*	Number of bedrooms
-	*	Price per night
-	*	Number of reviews
-	*	Availability
-	*	Revenue estimates
-	*	Listing performance indicators
+*	Neighborhood
+*	Room type
+*	Number of bedrooms
+*	Price per night
+*	Number of reviews
+*	Availability
+*	Revenue estimates
+*	Listing performance indicators
 
 The project also includes calendar and listing-level data used for deeper revenue analysis.
 
 ---
 
 Tools Used
-	*	Google Sheets
-	*	Pivot Tables
-	*	Formulas (IF, AND, VLOOKUP, helper columns)
+
+*	Google Sheets
+*	Pivot Tables
+*	Formulas (IF, AND, VLOOKUP, helper columns)
 
 ---
 
