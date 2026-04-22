@@ -89,8 +89,8 @@ Midtown and several high-demand Manhattan neighborhoods consistently showed the 
 
 Listing Type Performance
 
-	*	Studio (0-bedroom) listings performed best in Midtown
-	*	1-bedroom listings showed stronger performance in most other top neighborhoods
+*	Studio (0-bedroom) listings performed best in Midtown
+*	1-bedroom listings showed stronger performance in most other top neighborhoods
 
 Revenue Drivers
 
@@ -104,9 +104,9 @@ Business Recommendations
 
 Recommended Investment Focus
 
-	*	Prioritize Midtown for studio investments
-	*	Focus on 1-bedroom properties in other top-performing neighborhoods
-	*	Evaluate listings based on long-term demand indicators rather than price only
+*	Prioritize Midtown for studio investments
+*	Focus on 1-bedroom properties in other top-performing neighborhoods
+*	Evaluate listings based on long-term demand indicators rather than price only
 
 Risk Reduction
 
