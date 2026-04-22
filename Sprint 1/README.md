@@ -39,7 +39,6 @@ The project also includes calendar and listing-level data used for deeper revenu
 ---
 
 Tools Used
-
 	*	Google Sheets
 	*	Pivot Tables
 	*	Formulas (IF, AND, VLOOKUP, helper columns)
